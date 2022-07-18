@@ -22,8 +22,8 @@ To get your IP COUNTRY data you can do this:
 To get specific IP ASN data you can do this:
 <pre>curl ip-info.monster/1.1.1.1/asn</pre>
 
-To get your IP CITY data you can do this:
+To get specific IP CITY data you can do this:
 <pre>curl ip-info.monster/1.1.1.1/city</pre>
 
-To get your IP COUNTRY data you can do this:
+To get specific IP COUNTRY data you can do this:
 <pre>curl ip-info.monster/1.1.1.1/country</pre>
